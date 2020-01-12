@@ -9,3 +9,5 @@ If you need help with any variable names, just ask.
 
 
 I, Mottysc, made this code. You may not steal or copy this code and pass it on as your own. 
+
+The code has a lot of extra variables and options that is necessary, I just made them for more customisation. 
