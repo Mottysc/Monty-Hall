@@ -6,3 +6,6 @@ My family was arguing about the Monty Hall Problem so I made a simulator to work
 
 I made this myself, it's a pretty simple code with not much to explain.
 If you need help with any variable names, just ask. 
+
+
+I, Mottysc, made this code. You may not steal or copy this code and pass it on as your own. 
