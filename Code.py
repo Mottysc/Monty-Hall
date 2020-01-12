@@ -1,4 +1,4 @@
-
+#I, Mottysc, made this code. You may not steal or copy this code and pass it off as your own. 
 import random
 import time
 def montyhall():
